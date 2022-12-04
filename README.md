@@ -87,5 +87,5 @@ kubectl create -f wp-service.yaml
 ## Task 9  
 ```shellscript
 # IAM & Admin -> IAM -> ADD New Member -> copy and paste email username 2 from Lab instruction page  
-# Role : Project -> Editor  
+## Role : Project -> Editor  
 ```
